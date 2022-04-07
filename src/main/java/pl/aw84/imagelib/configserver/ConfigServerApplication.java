@@ -1,4 +1,4 @@
-package pl.aw84.image.configserver;
+package pl.aw84.imagelib.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

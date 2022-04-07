@@ -1,4 +1,4 @@
-package pl.aw84.image.configserver;
+package pl.aw84.imagelib.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
