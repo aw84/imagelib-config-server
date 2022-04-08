@@ -12,6 +12,3 @@ management:
       exposure:
         include:
           - '*'
-# management.endpoints.web.exposure.include=*
-# spring.cloud.config.server.git.uri=${CONFIG_ROOT_PATH}
-# spring.cloud.config.server.git.repos=master
