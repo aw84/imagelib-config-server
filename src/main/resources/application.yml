@@ -11,6 +11,7 @@ spring:
     config:
       server:
         git:
+          default-label: master
           uri: ${CONFIG_ROOT_PATH}
 encrypt:
   key: $(ENCRYPTION_KEY}
