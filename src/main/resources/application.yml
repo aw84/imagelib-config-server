@@ -7,6 +7,9 @@ management:
         include:
           - "*"
 spring:
+  profiles:
+    active:
+    - local
   cloud:
     config:
       server:
