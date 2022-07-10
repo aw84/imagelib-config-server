@@ -20,4 +20,4 @@ encrypt:
   key: $(ENCRYPTION_KEY}
 logging:
   level:
-    root: "ERROR"
+    root: "INFO"
